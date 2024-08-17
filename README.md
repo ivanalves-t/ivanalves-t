@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">Social media</h2>
+<h2 align="center">Me contacte</h2>
 
 ###
 
