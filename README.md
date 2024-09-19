@@ -1,4 +1,4 @@
-<h2 align="center">Sobre mim</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Tecnologias e linguagens</h2>
+<h2 align="left">Tecnologias e linguagens</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 
-<div align="center">
+<div align="left">
 
 </div>
 
@@ -44,11 +44,11 @@
 
 ###
 
-<h2 align="center">Me contacte</h2>
+<h2 align="left">Me contacte</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/ivanilson-atm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
