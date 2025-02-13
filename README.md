@@ -2,7 +2,7 @@
 
 ###
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no [IFPE](https://portal.ifpe.edu.br/garanhuns/)<br>💻⚙️ Pesquisador bolsista em **Data Analytics e Machine Learning** na [UPE](https://www.upe.br/), financiado pela [Facepe](https://www.facepe.br/) (2023 - 2024)<br>💼 Estagiário em AWS Cloud Data Engineering na [Compass](https://compass.uol/pt/home/) (2024)
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no [IFPE](https://portal.ifpe.edu.br/garanhuns/)<br>💻⚙️ Pesquisador bolsista em **Data Analytics e Machine Learning** na [UPE](https://www.upe.br/), financiado pela [Facepe](https://www.facepe.br/) (2023 - 2024)
 
 ###
 
